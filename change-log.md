@@ -1,6 +1,4 @@
-#Project Change Logs
---------------------
+# Project Change Logs
 
-##Fix Git hooks
---------
+## Fix Git hooks
 Update the change logs and that
